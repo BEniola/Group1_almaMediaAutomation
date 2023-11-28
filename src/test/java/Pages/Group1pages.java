@@ -1,2 +1,4 @@
-package Pages;public class Group1pages {
+package Pages;
+
+public class Group1pages {
 }

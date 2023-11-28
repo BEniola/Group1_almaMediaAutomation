@@ -17,25 +17,13 @@ public class TestBase {
 
     public void initialize() throws IOException {
         if (driver == null) {
-//         This code will read the config property file
+
             CONFIG = new Properties();
             FileInputStream fn = new FileInputStream(System.getProperty("user.dir") + "/src/main/java/config/config.properties");
             CONFIG.load(fn);
-//            initialize the WebDriver
-//            if (CONFIG.getProperty("Browser").equals("edge")) {
-//                System.setProperty("webdriver.edge.driver", "c://msedgedriver.exe");
-//                driver = new EdgeDriver();
-//            } else if (CONFIG.getProperty("Browser").equals("IE")) {
-//                System.setProperty("webdriver.chrome.driver", "C:\\IeDriverServer.exe");
-//                driver = new InternetExplorerDriver();
-//            } else if (CONFIG.getProperty("Browser").equals("chrome")) {
-//                System.setProperty("webdriver.chrome.driver", "C:\\chromedriver.exe");
-//                driver = new ChromeDriver();
-//            }
-//            driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+
+
         }
 
-
     }
-
 }
