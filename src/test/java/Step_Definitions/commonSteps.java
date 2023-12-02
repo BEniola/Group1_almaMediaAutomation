@@ -17,12 +17,13 @@ public class commonSteps extends TestBase {
     }
 
     @Given("^I am on the home page$")
-    public void iAmOnTheHomePage() {
+    public void iAmOnTheHomePage() throws InterruptedException {
         WebDriverManager.edgedriver().setup();
         driver = new EdgeDriver();
         driver.manage().deleteAllCookies();
         driver.get(CONFIG.getProperty("URL"));
         driver.manage().window().maximize();
+        Thread.sleep(5000);
         driver.findElement(By.xpath("//*[@id=\"almacmp-modalConfirmBtn\"]")).click();
 
     }
