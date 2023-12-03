@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad2ea47b-58e7-4e20-b2e3-7c26b17ae133" name="Changes" comment="cookies acceptance codes added to commonSteps">
+RunnerClass
       <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_12_2023_01_03_[Changes]/shelved.patch" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_12_2023_01_03_[Changes]1/shelved.patch" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_12_2023_01_03__Changes_.xml" afterDir="false" />
@@ -12,7 +13,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_12_2023_01_04_[Changes]/shelved.patch" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_12_2023_01_04_[Changes]1/shelved.patch" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_12_2023_01_04__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Step_Definitions/RunnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Step_Definitions/RunnerClass.java" afterDir="false" />master
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +41,11 @@
         </map>
       </branch-storage>
     </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="vaoukkraovi.com_Eniolaredo" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -56,7 +62,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+RunnerClass
     "git-widget-placeholder": "RunnerClass",
+=======
+    "git-widget-placeholder": "vaoukkraovi.com__Eniola",
+ master
     "last_opened_file_path": "C:/Users/bosed/IdeaProjects/cwm-plugin-213.2094.12.zip",
     "onboarding.tips.debug.path": "C:/Users/bosed/IdeaProjects/Group1_almaMediaAutomation/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
@@ -75,7 +85,9 @@
       <recent name="Steps_Definitions" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RunnerClass">
+RunnerClass
+  <component name="RunManager" selected="JUnit.RunnerClass",
+ master
     <configuration name="Scenario: Home page is fully loaded" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/commonSteps.feature" />
@@ -85,6 +97,46 @@
       <option name="NAME_FILTER" value="^Home page is fully loaded$" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Home page is fully loaded$&quot;" />
       <option name="SUGGESTED_NAME" value="Scenario: Home page is fully loaded" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: User should be led to the voukkraovi landing page" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/vuokkraovi.com_Eniola.feature" />
+      <option name="GLUE" value="Step_Definitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="myFirst_TestAutomation" />
+      <option name="NAME_FILTER" value="^User should be led to the voukkraovi landing page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^User should be led to the voukkraovi landing page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User should be led to the voukkraovi landing page" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify that Vuokkraovi.com navigates the user correctly" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/vuokkraovi.com_Eniola.feature" />
+      <option name="GLUE" value="Step_Definitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="myFirst_TestAutomation" />
+      <option name="NAME_FILTER" value="^Verify that Vuokkraovi\.com navigates the user correctly$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Verify that Vuokkraovi\.com navigates the user correctly$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify that Vuokkraovi.com navigates the user correctly" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -146,7 +198,9 @@
     </configuration>
     <recent_temporary>
       <list>
+ RunnerClass
         <item itemvalue="JUnit.RunnerClass" />
+ master
         <item itemvalue="Cucumber Java.Scenario: Home page is fully loaded" />
         <item itemvalue="Cucumber Java.Scenario: " />
       </list>
