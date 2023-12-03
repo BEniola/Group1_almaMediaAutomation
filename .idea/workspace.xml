@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad2ea47b-58e7-4e20-b2e3-7c26b17ae133" name="Changes" comment="cookies acceptance codes added to commonSteps">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Base/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Config/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Group1pages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/Group1pages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Step_Definitions/commonSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Step_Definitions/commonSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/commonSteps.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/commonSteps.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_12_2023_01_03_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_12_2023_01_03_[Changes]1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_12_2023_01_03__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_12_2023_01_03__Changes_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_12_2023_01_04_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_12_2023_01_04_[Changes]1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_12_2023_01_04__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Step_Definitions/RunnerClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,19 +52,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/bosed/IdeaProjects/cwm-plugin-213.2094.12.zip&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/bosed/IdeaProjects/Group1_almaMediaAutomation/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "RunnerClass",
+    "last_opened_file_path": "C:/Users/bosed/IdeaProjects/cwm-plugin-213.2094.12.zip",
+    "onboarding.tips.debug.path": "C:/Users/bosed/IdeaProjects/Group1_almaMediaAutomation/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\bosed\IdeaProjects\Group1_almaMediaAutomation\src\main\java\test\java" />
@@ -74,7 +75,7 @@
       <recent name="Steps_Definitions" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: Home page is fully loaded">
+  <component name="RunManager" selected="JUnit.RunnerClass">
     <configuration name="Scenario: Home page is fully loaded" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/commonSteps.feature" />
@@ -115,6 +116,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RunnerClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myFirst_TestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Step_Definitions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Step_Definitions" />
+      <option name="MAIN_CLASS_NAME" value="Step_Definitions.RunnerClass" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Group1_almaMediaAutomation" />
       <method v="2">
@@ -130,6 +146,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RunnerClass" />
         <item itemvalue="Cucumber Java.Scenario: Home page is fully loaded" />
         <item itemvalue="Cucumber Java.Scenario: " />
       </list>

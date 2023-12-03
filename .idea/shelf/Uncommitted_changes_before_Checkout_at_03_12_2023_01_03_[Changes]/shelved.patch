@@ -1,0 +1,27 @@
+Index: src/test/java/Step_Definitions/RunnerClass.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Step_Definitions;public class RunnerClass {\r\n}\r\n
+===================================================================
+diff --git a/src/test/java/Step_Definitions/RunnerClass.java b/src/test/java/Step_Definitions/RunnerClass.java
+--- a/src/test/java/Step_Definitions/RunnerClass.java	
++++ b/src/test/java/Step_Definitions/RunnerClass.java	
+@@ -1,2 +1,15 @@
+-package Step_Definitions;public class RunnerClass {
+-}
++package Step_Definitions;
++
++import Base.TestBase;
++import cucumber.api.CucumberOptions;
++import cucumber.api.junit.Cucumber;
++import org.junit.runner.RunWith;
++
++@CucumberOptions(strict = false,
++        features = "src/test/resources",
++        plugin = {"pretty", "json:target/cucumber.json"},
++        tags = {"~@ignore"} )
++@RunWith(Cucumber.class)
++
++public class RunnerClass extends TestBase {
++}
+\ No newline at end of file
