@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad2ea47b-58e7-4e20-b2e3-7c26b17ae133" name="Changes" comment="cookies acceptance codes added to commonSteps">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Step_Definitions/RunnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Step_Definitions/vaoukkraovi_Eniola.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/vuokkraovi.com_Eniola.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/vuokkraovi.com_Eniola.feature" afterDir="false" />
+RunnerClass
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_12_2023_01_03_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_12_2023_01_03_[Changes]1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_12_2023_01_03__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_12_2023_01_03__Changes_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_12_2023_01_04_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_12_2023_01_04_[Changes]1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_12_2023_01_04__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Step_Definitions/RunnerClass.java" afterDir="false" />master
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +62,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+RunnerClass
+    "git-widget-placeholder": "RunnerClass",
+=======
     "git-widget-placeholder": "vaoukkraovi.com__Eniola",
+ master
     "last_opened_file_path": "C:/Users/bosed/IdeaProjects/cwm-plugin-213.2094.12.zip",
     "onboarding.tips.debug.path": "C:/Users/bosed/IdeaProjects/Group1_almaMediaAutomation/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
@@ -76,7 +85,9 @@
       <recent name="Steps_Definitions" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: Verify that Vuokkraovi.com navigates the user correctly">
+RunnerClass
+  <component name="RunManager" selected="JUnit.RunnerClass",
+ master
     <configuration name="Scenario: Home page is fully loaded" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/commonSteps.feature" />
@@ -187,9 +198,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber Java.Scenario: Verify that Vuokkraovi.com navigates the user correctly" />
+ RunnerClass
         <item itemvalue="JUnit.RunnerClass" />
-        <item itemvalue="Cucumber Java.Scenario: User should be led to the voukkraovi landing page" />
+ master
         <item itemvalue="Cucumber Java.Scenario: Home page is fully loaded" />
         <item itemvalue="Cucumber Java.Scenario: " />
       </list>

@@ -11,5 +11,7 @@ import org.junit.runner.RunWith;
         tags = {"~@ignore"} )
 @RunWith(Cucumber.class)
 
-public class RunnerClass extends TestBase{
+ RunnerClass
+public class RunnerClass extends TestBase {
+
 }
